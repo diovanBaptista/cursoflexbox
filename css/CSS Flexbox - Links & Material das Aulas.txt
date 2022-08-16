@@ -1,0 +1,113 @@
+CSS Flexbox
+
+No curso de CSS Flexbox você irá aprender como criar um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. Assim você não precisará mais definir valores fixos e flutuar elementos para criar o seu layout.
+Vamos iniciar pelos fundamentos, ensinando todas as propriedades e o que elas fazem no CSS. Após estes vamos criar um projeto real para colocarmos em prática o aprendizado.
+
+25 aulas em HD
+3 horas de Vídeo
+Na Projetos Reais na Prática
+Pré-Requisitos: HTML e CSS
+
+1-1 CSS Flexbox
+Sobre o curso de Flexbox
+https://origamid.com/projetos/flexblog/
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-1 Display Flex
+Como utilizar o display: flex;
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-2 Flex Direction
+omo utilizar a propriedade flex-direction
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-3 Flex Wrap
+Como utilizar a propriedade flex-wrap.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-4 Flex Flow
+Como utilizar a propriedade flex-flow.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-5 Justify Content
+Como utilizar a propriedade justify-content.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-6 Align Items
+Como utilizar a propriedade align-items.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-7 Align Content
+Como utilizar a propriedade align-content.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-8 Flex Grow
+Como utilizar a propriedade flex-grow.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-9 Flex Basis
+Como utilizar a propriedade flex-basis.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-10 Flex Shrink
+Como utilizar a propriedade flex-shrink.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-11 Flex
+Como utilizar a propriedade flex.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-12 Order
+Como utilizar a propriedade order.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+2-13 Align Self
+Como utilizar a propriedade align-self.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+3-1 FlexBlog HTML - 1
+Criação do HTML do projeto FlexBlog.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+3-2 FlexBlog HTML - 2
+Criação do HTML do projeto FlexBlog.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+3-3 FlexBlog CSS Reset
+Criação do CSS Reset do projeto FlexBlog.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+3-4 FlexBlog Superinfo
+Criação do Header do projeto FlexBlog.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+3-5 FlexBlog Menu
+Criação do Menu do projeto FlexBlog.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+3-6 FlexBlog Sobre
+Criação da parte de Sobre do projeto FlexBlog.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+3-7 FlexBlog Produtos
+Criação da parte de Produtos do projeto FlexBlog.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+3-8 FlexBlog Preço
+Criação da parte de Preço do projeto FlexBlog.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+3-9 FlexBlog Qualidade
+Criação da parte de Qualidade do projeto FlexBlog.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+3-10 FlexBlog Footer
+Criação do Footer do projeto FlexBlog.
+https://origamid.com/projetos/flexbox-guia-completo/
+
+4-1 CSS Flexbox - Conclusão
+Considerações finais do curso de CSS Flexbox
+https://origamid.com/projetos/flexbox-guia-completo/
+
+O projeto do curso é a criação de um site com uma única página: FlexBlog. Com ele vamos conseguir experimentar praticamente todas as propriedades do Flexbox.
+
